@@ -1,0 +1,12 @@
+[credentials]
+username = "1binayakc"
+password = "binayak102030"
+
+[api_settings]
+base_url = "https://textdigital.in/app/smsapi/index.php"
+key = "5623D608C94206"
+campaign = "7231"
+routeid = "100864"
+type = "text"
+senderid = "BNYKSC"
+pe_id = "1001806223550104100"
